@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (Jogo da Velha)
 
-Developed in C# using Windows Forms.
+Developed in C# using Windows Forms with .NET on Visual Studio.
 
 This project was created during the second semester of my college studies in 2024. It's a simple two-player game where users take turns clicking on a 3×3 grid to place their marks (X or O). The goal is to align three marks in a row – horizontally, vertically, or diagonally.
 
