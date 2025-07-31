@@ -1,0 +1,12 @@
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\bin\Debug\JogoTeste.exe.config
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\bin\Debug\JogoTeste.exe
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\bin\Debug\JogoTeste.pdb
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoTeste.Form1.resources
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoTeste.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoTeste.exe
+C:\Users\rafae\OneDrive\Documentos\jogo da velha\Jogo\JogoTeste\obj\Debug\JogoTeste.pdb
+C:\Users\rafaela.mello\OneDrive - Claranet\Documentos\jogo da velha\JogoDaVelha\obj\Debug\JogoTeste.exe
+C:\Users\rafaela.mello\OneDrive - Claranet\Documentos\jogo da velha\JogoDaVelha\obj\Debug\JogoTeste.pdb
